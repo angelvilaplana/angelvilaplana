@@ -1,6 +1,6 @@
 ## 👋 Hello! My name is Angel :)
 
-#### I am a beginning developer eager to learn from the best.
+#### I am a beginner developer eager to learn from the best.
 
 ![Angel Vilaplana's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelvilaplana&show_icons=true&theme=dark)
 
